@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Covid 19</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">CoronaVirus</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="thembaiviet">Thêm bài viết</string>
+    <string name="suabaiviet">Sửa bài viết</string>
+
+    <string name="read_more">Đọc thêm</string>
+
+
+    <string name="menu_home">Trang chủ</string>
+    <string name="menu_statistics">Thống kê</string>
+    <string name="menu_preventation">Phòng ngừa</string>
+    <string name="menu_slideshow">Triệu chứng</string>
+    <string name="menu_article">Bài viết</string>
+    <string name="menu_news">Tin tức</string>
+    <string name="menu_help">Hỗ trợ</string>
+    <string name="slide_1_heading">Wear a Mask</string>
+    <string name="slide_2_heading">Hand Wash and Sanitize</string>
+    <string name="slide_3_heading">Physical Distancing</string>
+
+    <string name="slide_1_desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Volutpat felis sit eget euismod et vulputate. Vitae lacus, maecenas odio ac.</string>
+    <string name="slide_2_desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Volutpat felis sit eget euismod et vulputate. Vitae lacus, maecenas odio ac.</string>
+    <string name="slide_3_desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Volutpat felis sit eget euismod et vulputate. Vitae lacus, maecenas odio ac.</string>
+
+    <string name="title_activity_statistics">statistics</string>
+<!--    <string name="tab_text_1">Tab 1</string>-->
+<!--    <string name="tab_text_2">Tab 2</string>-->
+    <string name="title_activity_table">table</string>
+
+    <string name="helper_heading_1">Đường dây nóng</string>
+    <string name="helper_heading_2">Bác sĩ</string>
+    <string name="helper_heading_3">Bệnh viện</string>
+    <string name="helper_heading_4">Tư vấn</string>
+    <string name="helper_content_1">Tiếp nhận thông tin phản ánh của người dùng</string>
+    <string name="helper_content_2">Hỗ trợ, chuẩn đoán tình trạng sức khỏe</string>
+    <string name="helper_content_3">Hỗ trợ về các bệnh viện đang tiếp đón các bệnh nhân</string>
+    <string name="helper_content_4">Tư vấn tình trạng sức khỏe, tinh thần, đời sống,..</string>
+    
+    <string name="home_send_btn">Gửi SMS</string>
+    <string name="home_call_btn">Gọi Ngay</string>
+    <string name="home_content_symptoms">Nếu bạn cảm thấy ốm với bất kỳ triệu chứng nào của covid-19 vui lòng gọi điện hoặc nhắn tin SMS cho chúng tôi ngay lập tức để được trợ giúp.</string>
+    <string name="home_heading_symtoms">Bạn cảm thấy mệt mỏi?</string>
+    
+    <string name="symptoms_heading_sneezing">Hắt hơi</string>
+    <string name="symptoms_content_sneezing">Ho khan cũng là triệu chứng nhiễm Covid-19 xuất hiện sớm và phổ biến. Triệu chứng này còn khiến virus dễ lây lan trong không khí</string>
+    <string name="symptoms_heading_doctor">Lời khuyên của bác sĩ</string>
+    <string name="symptoms_content_doctor">Không giống như những bệnh khác, hậu COVID có thể xảy ra ở bất kỳ ai, kể cả người bị triệu chứng nhẹ. Khi đến các cơ sở y tế, người bệnh sẽ được bác sỹ hỏi về tiền sử bệnh và các triệu chứng hiện gặp.</string>
+
+    <string name="title_activity_news">News</string>
+
+
+    <string name="dangky">Đăng ký</string>
+    <string name="tendangnhap">Tên đăng nhập</string>
+    <string name="matkhau">Mật khẩu</string>
+    <string name="gioitinh">Giới tính: </string>
+    <string name="ngaysinh">Ngày sinh </string>
+    <string name="chungminh">Chứng minh nhân dân </string>
+    <string name="dongy">Đồng ý</string>
+    <string name="Thoát">Thoát</string>
+    <string name="tab_text_1">tesst</string>
+    <string name="tab_text_2">test</string>
+    <string name="xemthem">Xem thêm</string>
+    <string name="thugon">Thu gọn</string>
+    <string name="mo">Mở</string>
+    <string name="dong">Đóng</string>
+
+    <string name="themthongtinbaiviet">Thêm thông tin bài viết</string>
+    <string name="nhaptieude">Nhập tiêu đề</string>
+    <string name="nhapnoidung">Nhập nội dung</string>
+    <string name="them">Thêm</string>
+</resources>
