@@ -22,6 +22,7 @@ import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentTransaction;
 
 import com.example.covid_19.Fragment.ArticleFragment;
+import com.example.covid_19.Fragment.HelperFragment;
 import com.example.covid_19.Fragment.HomeFragment;
 import com.google.android.material.navigation.NavigationView;
 
@@ -106,6 +107,15 @@ public class TrangChuActivity extends AppCompatActivity implements NavigationVie
                 ArticleFragment articleFragment = new ArticleFragment();
                 tranHienThiBaiViet.replace(R.id.content, articleFragment);
                 tranHienThiBaiViet.commit();
+
+                item.setChecked(true);
+                drawerLayout.closeDrawers();
+                break;
+            case R.id.nav_helper:
+                FragmentTransaction tranHienThiTroGiup = fragmentManager.beginTransaction();
+                HelperFragment helperFragment = new HelperFragment();
+                tranHienThiTroGiup.replace(R.id.content, helperFragment);
+                tranHienThiTroGiup.commit();
 
                 item.setChecked(true);
                 drawerLayout.closeDrawers();
