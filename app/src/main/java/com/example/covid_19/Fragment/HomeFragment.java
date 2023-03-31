@@ -16,6 +16,7 @@ import com.example.covid_19.R;
 
 public class HomeFragment extends Fragment implements View.OnClickListener {
     Button btnCall, btnSend;
+//    hàm này dùng để khởi tạo nút call và send sms
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {

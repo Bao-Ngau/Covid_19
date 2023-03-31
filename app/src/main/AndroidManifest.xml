@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
+
     <uses-permission android:name="android.permission.CALL_PHONE" />
     <uses-permission android:name="android.permission.SEND_SMS" />
+
     <application
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
@@ -12,8 +14,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Covid_19"
         tools:targetApi="31">
-        <activity android:name=".TrangChuActivity">
-        </activity>
+        <activity android:name=".TrangChuActivity"></activity>
         <activity
             android:name=".OnBoardingActivity"
             android:exported="true">
@@ -41,24 +42,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".SendSmsActivity"></activity>
+        <activity android:name=".ThemBaiVietActivity"></activity>
 
-
-        <activity
-            android:name=".SendSmsActivity"
-            android:exported="true">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
-        <activity
-            android:name=".ThemBaiVietActivity"
-            android:exported="true">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
     </application>
 
 </manifest>
