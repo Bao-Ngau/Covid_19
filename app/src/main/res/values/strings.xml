@@ -18,13 +18,13 @@
     <string name="menu_article">Bài viết</string>
     <string name="menu_news">Tin tức</string>
     <string name="menu_help">Hỗ trợ</string>
-    <string name="slide_1_heading">Wear a Mask</string>
-    <string name="slide_2_heading">Hand Wash and Sanitize</string>
-    <string name="slide_3_heading">Physical Distancing</string>
+    <string name="slide_1_heading">Đeo khẩu trang</string>
+    <string name="slide_2_heading">Rửa tay thường xuyên</string>
+    <string name="slide_3_heading">Tiêm vaccine COVID-19</string>
 
-    <string name="slide_1_desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Volutpat felis sit eget euismod et vulputate. Vitae lacus, maecenas odio ac.</string>
-    <string name="slide_2_desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Volutpat felis sit eget euismod et vulputate. Vitae lacus, maecenas odio ac.</string>
-    <string name="slide_3_desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Volutpat felis sit eget euismod et vulputate. Vitae lacus, maecenas odio ac.</string>
+    <string name="slide_1_desc">Đeo khẩu trang đúng cách, rửa tay thường xuyên và giữ khoảng cách xã hội để phòng ngừa lây nhiễm COVID-19.</string>
+    <string name="slide_2_desc">Rửa tay là một hành động rất quan trọng để giữ cho tay sạch và ngăn ngừa việc lây lan các bệnh truyền nhiễm.</string>
+    <string name="slide_3_desc">Tiêm vaccine COVID-19 khi được cung cấp để bảo vệ bản thân và ngăn chặn sự lây lan của virus trong cộng đồng.</string>
 
     <string name="title_activity_statistics">statistics</string>
 <!--    <string name="tab_text_1">Tab 1</string>-->
